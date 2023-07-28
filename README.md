@@ -22,3 +22,4 @@
 <img src="https://github.com/arihara-sudhan/Simple-Neural-Networks/blob/main/imgs/updated.gif?raw=true">
 <hr>
 <h3>GO ON</h3>
+<img src="https://github.com/arihara-sudhan/Simple-Neural-Networks/blob/main/imgs/goon.gif?raw=true">
