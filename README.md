@@ -10,6 +10,7 @@
 <img src="https://github.com/arihara-sudhan/Simple-Neural-Networks/blob/main/imgs/layers.gif?raw=true">
 <hr>
 <h3>Forward Propagation</h3>
+<img src="https://github.com/arihara-sudhan/Simple-Neural-Networks/blob/main/imgs/prop.gif?raw=true">
 <hr>
 <h3>LOSS</h3>
 <hr>
