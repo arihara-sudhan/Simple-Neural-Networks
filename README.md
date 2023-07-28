@@ -4,8 +4,8 @@
 <img src="https://github.com/arihara-sudhan/Simple-Neural-Networks/blob/main/imgs/intro.gif?raw=true" alt="">
 <hr>
 <h3>UseCase : XOR Operation</h3>
+<img src="https://github.com/arihara-sudhan/Simple-Neural-Networks/blob/main/imgs/xor.gif?raw=true">
 <hr>
-<img src="">
 <h3>Weights and Biases</h3>
 <img src="https://github.com/arihara-sudhan/Simple-Neural-Networks/blob/main/imgs/weights.gif?raw=true">
 <hr>
