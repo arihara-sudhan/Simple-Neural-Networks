@@ -15,6 +15,9 @@
 <h3>Forward Propagation</h3>
 <img src="https://github.com/arihara-sudhan/Simple-Neural-Networks/blob/main/imgs/prop.gif?raw=true">
 <hr>
+<h3>ACTIVATION</h3>
+<img src="">
+<hr>
 <h3>LOSS</h3>
 <img src="https://github.com/arihara-sudhan/Simple-Neural-Networks/blob/main/imgs/loss.gif?raw=true">
 <hr>
