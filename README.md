@@ -1,7 +1,7 @@
 # Simple-Neural-Networks
-<h1>ILLUSTRATIONS OF WORKING OF NEURAL NETWORKS</h1>
+<h1>READ HOW A NEURAL NETWORK LEARNS : <a href=''>HERE</a></h1>
 <h3>Looks Like</h3>
-<img src="https://github.com/arihara-sudhan/Simple-Neural-Networks/blob/main/imgs/intro.gif?raw=true" alt="">
+<img src="https://southernboy.onrender.com/3" alt="">
 <hr>
 <h3>UseCase : XOR Operation</h3>
 <img src="https://github.com/arihara-sudhan/Simple-Neural-Networks/blob/main/imgs/xor.gif?raw=true">
