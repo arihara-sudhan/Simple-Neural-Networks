@@ -1,5 +1,5 @@
 # Simple-Neural-Networks
-<h1>READ HOW A NEURAL NETWORK LEARNS : <a href=''>HERE</a></h1>
+<h1>READ how A Neural Network learns : <a href=''>HERE</a></h1>
 <h3>Looks Like</h3>
 <img src="https://southernboy.onrender.com/3" alt="">
 <hr>
